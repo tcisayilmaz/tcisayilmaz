@@ -1,6 +1,6 @@
-- 👋 Merhaba! Ben İsa Yılmaz!
-- 🚀 Yazılım geliştirme, yapay zeka ve teknolojiye ilgi duyan biri olarak GitHub'da aktifim.
-- 👨‍💻 Şu anda Naknet Inc şirketinde çalışıyorum ve SwiftUI üzerinde deneyim kazanıyorum.
-- 🌱 Sürekli öğrenmeye ve yeni teknolojilere adım atmaya hevesliyim. Yapay Zeka üzerinde çalışıyorum ve Tek Amacım Dünyayı Kolaylaştırmak. 
+- 👋 Merhaba! Ben İsa!
+- 🚀 Yazılım geliştirme alanında 8. senemde olmaktan gurur duyuyorum.
+- 👨‍💻 Freelance hayatını çok seviyorum. Hemen hemen tüm işlerimi uzaktan yapmaktayım.
+- 🌱 Flutter Swıft ve PHP bilgisine sahibim. E-Commerce dan tutun da yapay zekaya kadar bir çok alanda kendimi uzman hale getirdim
 - 💬 Benimle iletişime geçmekten çekinmeyin, açık kaynak projelerde işbirliği yapmaktan mutluluk duyarım! 
-- 📫 Bana naknet.com.tr adresinden ulaşabilir veya sosyal medyada tcisaylmz olarak takip edebilirsiniz. 
+- 📫 https://wa.me/905540281240?text=Hey%20%C4%B0sa!%20Selam! adresinden ulaşabilir veya sosyal medyada tcisaylmz olarak takip edebilirsiniz. 

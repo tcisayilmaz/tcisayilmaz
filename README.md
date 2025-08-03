@@ -3,4 +3,4 @@
 - 👨‍💻 Freelance hayatını çok seviyorum. Hemen hemen tüm işlerimi uzaktan yapmaktayım.
 - 🌱 Flutter Swıft ve PHP bilgisine sahibim. E-Commerce dan tutun da yapay zekaya kadar bir çok alanda kendimi uzman hale getirdim
 - 💬 Benimle iletişime geçmekten çekinmeyin, açık kaynak projelerde işbirliği yapmaktan mutluluk duyarım! 
-- 📫 Bana ulaşmak için merhaba@isayilmaz.com adresinden ulaşabilirsiniz
+- 📫 Bana ulaşmak için merhaba@tcisayilmaz.com adresinden ulaşabilirsiniz

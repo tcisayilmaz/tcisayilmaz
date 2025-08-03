@@ -3,4 +3,4 @@
 - 👨‍💻 Freelance hayatını çok seviyorum. Hemen hemen tüm işlerimi uzaktan yapmaktayım.
 - 🌱 Flutter Swıft ve PHP bilgisine sahibim. E-Commerce dan tutun da yapay zekaya kadar bir çok alanda kendimi uzman hale getirdim
 - 💬 Benimle iletişime geçmekten çekinmeyin, açık kaynak projelerde işbirliği yapmaktan mutluluk duyarım! 
-- 📫 https://wa.me/905540281240?text=Hey%20%C4%B0sa!%20Selam! adresinden ulaşabilir veya sosyal medyada tcisaylmz olarak takip edebilirsiniz. 
+- 📫 Bana ulaşmak için merhaba@isayilmaz.com adresinden ulaşabilirsiniz
